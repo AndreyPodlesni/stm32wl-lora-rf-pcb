@@ -1,0 +1,30 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+BT1,1,CR123A,,,,1050:BAT_1050,~
+"C1,C6,C10",3,4.7uF,,,,Capacitor_SMD:C_0603_1608Metric,~
+C2,1,100nF,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C3,C4,C5,C7,C11,C12,C26,C32,C41,C110",10,100nF,,,,Capacitor_SMD:C_01005_0402Metric,~
+"C8,C9",2,5.1pF,,,,Capacitor_SMD:C_01005_0402Metric,~
+"C13,C23",2,1nF,,,,Capacitor_SMD:C_0201_0603Metric,~
+C14,1,0.47uF,,,,Capacitor_SMD:C_0603_1608Metric,~
+C15,1,68pF,,,,Capacitor_SMD:C_01005_0402Metric,~
+"C17,C25",2,39pF,,,,Capacitor_SMD:C_0201_0603Metric,~
+C18,1,47nF,,,,Capacitor_SMD:C_01005_0402Metric,~
+"C27,C28,C29,C50",4,NC,,,,Capacitor_SMD:C_0201_0603Metric,~
+C31,1,10pF,,,,Capacitor_SMD:C_0201_0603Metric,~
+FB1,1,600R@100MHz,,,,BLM18AG601SN1D:BEADC1608X95N,~
+"H1,H2,H3,H4",4,MountingHole,,Excluded from BOM,,MountingHole:MountingHole_4.3mm_M4_ISO14580_Pad,~
+IC1,1,STM32WLE5CCU6,,,,STM32WLE5CCU6:QFN50P700X700X60-49N-D,https://www.st.com/resource/en/datasheet/stm32wle5c8.pdf
+IC2,1,BALFHB-WL-02D3,,,,BALFHB-WL-02D3:BALFHBWL02D3,https://www.st.com/resource/en/datasheet/balfhb-wl-02d3.pdf
+IC3,1,HDC2022DEPR,,,,HDC2022DERP:SON100P300X300X115-7N-D,https://www.ti.com/lit/ds/symlink/hdc2022.pdf?ts=1611816626574&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FsearchTerm%253DHDC2022DEPR
+J1,1,SMA,,,,SMA-J-P-H-ST-EM1:SAMTEC_SMA-J-P-H-ST-EM1,~
+J2,1,B5B-XH-A_LF__SN_,,,,digikey-footprints:PinHeader_1x5_P2.5mm_Drill1.1mm,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+J3,1,22-23-2021,,,,digikey-footprints:PinHeader_1x2_P2.54mm_Drill1.02mm,https://media.digikey.com/pdf/Data%20Sheets/Molex%20PDFs/A-6373-N_Series_Dwg_2010-12-03.pdf
+L2,1,15uH,,,,Inductor_SMD:L_0805_2012Metric,~
+L3,1,47nH,,,,Inductor_SMD:L_0402_1005Metric,~
+L7,1,0R,,,,Inductor_SMD:L_0201_0603Metric,~
+"R1,R4,R5",3,10K,,,,Resistor_SMD:R_0603_1608Metric,~
+R2,1,100R,,,,Resistor_SMD:R_0201_0603Metric,~
+R3,1,100R,,,,Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,~
+SW1,1,RST,,,,TS04_66_55_BK_260_SMT:SW_TS04-66-55-BK-260-SMT,~
+U1,1,BGS12WN6E6327,,,,Package_LGA:Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm,https://www.infineon.com/dgdl/Infineon-BGS12WN6-DataSheet-v02_05-EN.pdf?fileId=5546d4626b2d8e69016b89d2b3334727
+Y1,1,32.768KHz,,,,NX2012SA-32.768K-STD-MUB-1:NX2012SA32768KSTDMUB1,~
